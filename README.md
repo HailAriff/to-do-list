@@ -5,7 +5,6 @@ This project was created as a beginner web development practice.
 
 ## Features
 - Add tasks
-- Edit tasks
 - Delete tasks
 - Mark tasks as completed
 
